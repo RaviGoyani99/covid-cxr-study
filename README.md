@@ -86,7 +86,7 @@ Red regions highlight where the network focuses when predicting.
 
 ---
 
-## 5 How to Run
+## 5 How to Run (code)
 
 ```bash
 # clone
